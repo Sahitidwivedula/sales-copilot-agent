@@ -14,7 +14,7 @@ They provide the company URL and get back the company research
 Then they provide the prospects LinkedIn URL and get back the prospect research
 Then they ask for a pre-call report, and it is generated for them to read
 
-Technologies Used 🧠: e.g., Relevance(no code platform), Firecrawl(Website scraper), tools to research user's Linkedin & Company website, OpenAI API, 
+TECH USED 🧠: e.g., Relevance(no code platform), Firecrawl(Website scraper), tools to research user's Linkedin & Company website, OpenAI API, 
 
 Try here 👇
 https://app.relevanceai.com/agents/bcbe5a/0c769c085a30-4873-b53d-fb1ceb5d047e/66000518-de9c-4be0-a8f0-706afd555e89/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
